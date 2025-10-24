@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "asky-d1",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "cb6ca836-be6c-4461-b84c-549edcb1be0e",
+      "database_name": "asky"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
